@@ -2,7 +2,7 @@ deixe readlineSync = exigir('readline-sync');
 var nomeEven, nomePart1, nomePart2,nomepartinte, nomePales, idade, capacidade = 0;
 
 se (capacidade < 100){
-esse se na verdade seria um enquanto
+
 nomeEven = readlineSync. pergunta("digite o nome do evento: ");
 
 se (nomeEven.  comprimento < 4){
